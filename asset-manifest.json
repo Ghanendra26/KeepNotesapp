@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KeepNotesapp/static/css/main.4e88a110.css",
+    "main.js": "/KeepNotesapp/static/js/main.6ed9b51d.js",
+    "static/js/787.f35a9f3e.chunk.js": "/KeepNotesapp/static/js/787.f35a9f3e.chunk.js",
+    "index.html": "/KeepNotesapp/index.html",
+    "main.4e88a110.css.map": "/KeepNotesapp/static/css/main.4e88a110.css.map",
+    "main.6ed9b51d.js.map": "/KeepNotesapp/static/js/main.6ed9b51d.js.map",
+    "787.f35a9f3e.chunk.js.map": "/KeepNotesapp/static/js/787.f35a9f3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e88a110.css",
+    "static/js/main.6ed9b51d.js"
+  ]
+}
