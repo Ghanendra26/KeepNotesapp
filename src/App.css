@@ -6,6 +6,9 @@
   font-family: "josefin Sans", "Arial Narrow";
 
 }
+body{
+  margin: 0;
+}
  /* // eslint-disable-next-line */
 
 /* .header {
@@ -28,7 +31,7 @@ nav{
   /* justify-content: start; */
   justify-content: flex-start;
   align-items: center;
-  padding-left:30px;
+  /* padding-left:30px; */
   color : white;
   box-shadow: 5px 3px 15px -5px rgba (0,0,0,0.3);
   
@@ -36,6 +39,9 @@ nav{
 }
 nav ul li{
   list-style: none;
+}
+nav ul li h1{
+  padding-left: 30px;
 }
 .main_note {
   width: 500px;
